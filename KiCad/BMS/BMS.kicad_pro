@@ -451,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "PCB_J10.kicad_pro",
+    "filename": "BMS.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -609,6 +609,11 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "fa29bee4-ac79-474e-bb50-2540228b9014",
+      "Root"
+    ]
+  ],
   "text_variables": {}
 }
