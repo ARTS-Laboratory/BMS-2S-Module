@@ -1,2 +1,2 @@
 # BMS-2S-Module
-Generic BMS module for 2S cells
+Generic BMS module for cells in series
