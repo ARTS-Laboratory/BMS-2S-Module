@@ -1,3 +1,4 @@
 **/BMS-backups/
 *.kicad_sch-bak
 **/fp-info-cache
+*.lck
